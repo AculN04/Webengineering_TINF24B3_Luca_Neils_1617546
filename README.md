@@ -1,11 +1,13 @@
 **Matrikel-Nummer:** 1617546
 
 # Good to Know:
+- Navigationbar führt zu entsprechenden Abschnitten
 - Echte Rezepte
 - Rezepte können ausgeklappt werden, immer nur eins
 - Einkaufslogik funktioniert
 - Um Website dann zu drucken str + p drücken und darauf achten dass in der Druckvorschau auch der Hintergrund
 ausgewählt ist zusätzlich Kopf und Fußzeile deaktivieren
+- Drucksicht so gestaltet, dass jede Sektion der Webseite auf einer Seite, könnte auch angepasst werden.
 
 
 # Quellen für Bilder:
@@ -21,4 +23,5 @@ ausgewählt ist zusätzlich Kopf und Fußzeile deaktivieren
 - Bild Gärkörbchen: https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.wundermix.de%2Fproducts%2Fgaerkoerbchen-aus-peddigrohr-mit-baumwolleinsatz-rund-23-cm&ved=0CBUQjRxqFwoTCKj22p7n4pEDFQAAAAAdAAAAABAj&opi=89978449
 - Bild Gusseisen Topf: https://www.manufactum.de/kombi-topf-gusseisen-a205790/
 - Bild Bäckermesser: https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.amazon.de%2FZITFRI-B%25C3%25A4ckermesser-Ersatzklinge-Baguettemesser-Einschneiden%2Fdp%2FB08RB1BT63&ved=0CBUQjRxqFwoTCODggufo4pEDFQAAAAAdAAAAABAI&opi=89978449
+
 - Bild Set: https://krustenzauber.de/products/backerset-2x-garkorb-zum-brotbacken-2x-teigmesser?srsltid=AfmBOordbLafU8UjqyPWaO88eHrN2dst8dIkBcq0QqdbXR2rZMGiHi-j
